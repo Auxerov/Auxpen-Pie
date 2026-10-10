@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "auxpen"
+version = "1.0.0"
+name = "Auxpen Pie"
+tagline = "Customizable pie menus for tablet use"
+maintainer = "Auxerov"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-2.0-or-later",
+]
+tags = ["3D View"]
+
+[permissions]
+files = "Import and export pie menu configurations"
